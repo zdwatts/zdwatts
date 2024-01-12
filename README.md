@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-## I'm a Father, Husband, Writer, and Developer!
+## I'm a Father, Writer, and Developer!
 
 - 🔭 I’m currently working on an epic fantasy novel.
 - 🌱 I’m currently using Remix and React to build a fast single-page app
